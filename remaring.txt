@@ -1,0 +1,20 @@
+1. notification
+//result and fill notify
+2. chat box
+3. table ajax
+4. pagination >> << (done)
+5. rating tm, tenderer(done)
+6. manage category admin side.(done)
+7. search modification , admin,tm,tenderer - till 8/2/2017(m)
+8. display wining tender in result tab. - till 8/2/2017(j)
+9. update tender at tm side
+10. update fill tender at tenderer side. till 8/2/2017(j)
+11. declare result at same price at tenderer side.(done)
+12. tm select result tender ajex. till 8/2/2017(p)
+13. change category id to name and product id to name in all views.(done)
+14. Front page search page as w3school.
+15. view all tenders by tm_id.(done)
+16. Add new product(post tender).
+17. declare result problem. and send mail to declare result on thah day.
+* result auto declare *
+
